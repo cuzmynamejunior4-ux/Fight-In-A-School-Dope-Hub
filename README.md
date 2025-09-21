@@ -96,8 +96,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/U-ziii/Fight-In-A-Sch
 * Roblox fighting style unlocker
 * Walkspeed changer Roblox
 * Fighting style speed editor
-* No key fight script Roblox
-* Combat mod script for school game
+    * No key fight script Roblox
+  * Combat mod script for school game
 
 ---
 
